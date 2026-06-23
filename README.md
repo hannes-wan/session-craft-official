@@ -18,6 +18,8 @@ Repeat a difficult region while slowing down without pitch loss.
 
 ## Download packages
 
+- [session-craft-0.1.4-windows-x64-setup.exe](https://github.com/hannes-wan/session-craft-official/releases/download/v0.1.4/session-craft-0.1.4-windows-x64-setup.exe)
+
 - [session-craft-0.1.4-linux-x64.AppImage](https://github.com/hannes-wan/session-craft-official/releases/download/v0.1.4/session-craft-0.1.4-linux-x64.AppImage)
 - [session-craft-0.1.4-linux-x64.deb](https://github.com/hannes-wan/session-craft-official/releases/download/v0.1.4/session-craft-0.1.4-linux-x64.deb)
 - [session-craft-0.1.4-linux-x64.rpm](https://github.com/hannes-wan/session-craft-official/releases/download/v0.1.4/session-craft-0.1.4-linux-x64.rpm)
