@@ -4,7 +4,7 @@
 
 Session Craft turns local audio into a focused practice session: separate the mix, follow the waveform, loop hard sections, shift speed or pitch, read the chord timeline, and export a backing track when the session is ready.
 
-[Website](https://hannes-software.com/session-craft/) · [Download](https://hannes-software.com/session-craft/download/) · [Help](https://hannes-software.com/session-craft/help/) · [Latest release](https://github.com/hannes-wan/session-craft-official/releases/tag/v0.1.4)
+[Website](https://hannes-software.com/session-craft/) · [Download](https://hannes-software.com/session-craft/download/) · [Help](https://hannes-software.com/session-craft/help/) · [Latest release](https://github.com/hannes-wan/session-craft-official/releases/tag/v0.1.5)
 
 ## The problem it solves
 
@@ -54,24 +54,24 @@ Built for players and teachers who practice from real recordings, not sterile ex
 
 ### Session workbench
 
-![Session workbench](https://hannes-software.com/assets/session-craft/screenshots/workbench-overview-b43c8a8e35.webp)
+![Session workbench](https://hannes-software.com/assets/session-craft/screenshots/workbench-overview-0c1a8c77f0.webp)
 
 Waveform, stems, chords, speed, pitch, and loop controls.
 
 ### Loop practice
 
-![Loop practice](https://hannes-software.com/assets/session-craft/screenshots/loop-practice-76793335a7.webp)
+![Loop practice](https://hannes-software.com/assets/session-craft/screenshots/loop-practice-048b0b1c69.webp)
 
 Repeat a difficult region while slowing down without pitch loss.
 
 ## Download packages
 
-Latest GitHub release: **v0.1.4**
+Latest GitHub release: **v0.1.5**
 
-- [session-craft-0.1.4-windows-x64-setup.exe](https://github.com/hannes-wan/session-craft-official/releases/download/v0.1.4/session-craft-0.1.4-windows-x64-setup.exe)
-- [session-craft-0.1.4-linux-x64.AppImage](https://github.com/hannes-wan/session-craft-official/releases/download/v0.1.4/session-craft-0.1.4-linux-x64.AppImage)
-- [session-craft-0.1.4-linux-x64.deb](https://github.com/hannes-wan/session-craft-official/releases/download/v0.1.4/session-craft-0.1.4-linux-x64.deb)
-- [session-craft-0.1.4-linux-x64.rpm](https://github.com/hannes-wan/session-craft-official/releases/download/v0.1.4/session-craft-0.1.4-linux-x64.rpm)
+- [session-craft-0.1.5-windows-x64-setup.exe](https://github.com/hannes-wan/session-craft-official/releases/download/v0.1.5/session-craft-0.1.5-windows-x64-setup.exe)
+- [session-craft-0.1.5-linux-x64.AppImage](https://github.com/hannes-wan/session-craft-official/releases/download/v0.1.5/session-craft-0.1.5-linux-x64.AppImage)
+- [session-craft-0.1.5-linux-x64.deb](https://github.com/hannes-wan/session-craft-official/releases/download/v0.1.5/session-craft-0.1.5-linux-x64.deb)
+- [session-craft-0.1.5-linux-x64.rpm](https://github.com/hannes-wan/session-craft-official/releases/download/v0.1.5/session-craft-0.1.5-linux-x64.rpm)
 
 Prefer the product page if you want the full download notes, licensing details, and help articles:
 
