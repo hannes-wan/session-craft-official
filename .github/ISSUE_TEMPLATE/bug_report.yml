@@ -1,0 +1,49 @@
+name: Bug report
+description: Report reproducible Session Craft behavior
+title: "[Bug]: "
+labels: ["bug", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve Session Craft. Do not attach secrets or private customer files.
+  - type: input
+    id: version
+    attributes:
+      label: App version
+      placeholder: "0.1.5"
+    validations:
+      required: true
+  - type: dropdown
+    id: os
+    attributes:
+      label: Operating system
+      options: ["Windows 11", "Windows 10", "Linux (AppImage)", "Linux (DEB)", "Linux (RPM)", "Other"]
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Reproduction steps
+      description: Use the smallest safe input or describe it without uploading private data.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+    validations:
+      required: true
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Privacy check
+      options:
+        - label: I removed credentials, license data, and private customer or patient material.
+          required: true

@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Session Craft help
+    url: https://hannes-software.com/session-craft/help/
+    about: Read product documentation and troubleshooting
+  - name: Private support
+    url: https://hannes-software.com/contact/
+    about: Licensing, billing, security, or private-data cases
