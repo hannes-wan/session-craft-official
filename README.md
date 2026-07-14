@@ -5,7 +5,7 @@
 
 > Separate six local stems, loop the hard phrase, change speed or pitch, and preserve the practice session without an upload.
 
-Free Community Edition stem separation software and backing-track practice workstation for private local audio sessions.
+Free Community Edition music practice app and stem separation workstation for private local songs, loops, speed, pitch, and six-stem rehearsal.
 
 Session Craft turns local audio into a focused practice session: separate the mix, follow the waveform, loop hard sections, shift speed or pitch, read the chord timeline, and export a backing track when the session is ready.
 
