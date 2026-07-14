@@ -4,12 +4,12 @@
 
 ## What stands out in this release
 
-- Local MP3, WAV, and FLAC import uses the shared audio decoder to create a private desktop session without requiring a cloud upload.
-- Community Edition includes audio import, stem playback controls, and basic practice state.
-- Optional licensed stem separation creates vocals, drums, bass, guitar, and other controls for solo, mute, and rehearsal-mix shaping.
-- A/B looping, time-stretch without pitch shift, transposition, BPM, and chord regions remain aligned on one waveform timeline as optional licensed practice tools.
-- Project save preserves session state, while local backing-track export writes reusable practice material back to disk as an optional licensed workflow.
-- Playback controls and basic practice state remain attached to the local desktop session, so a rehearsal can be resumed without turning the source song into a cloud project.
+- Symphonia-backed MP3, WAV, and FLAC decoding creates a private desktop session without requiring a cloud upload.
+- The local HTDemucs ONNX path separates vocals, drums, bass, guitar, keyboard or piano, and other so each musical role can be auditioned, muted, or soloed.
+- A phase-vocoder practice path changes speed without simply transposing the recording, while pitch shift, A/B loops, and the waveform remain attached to the same session.
+- Community Edition includes local import, stem separation and playback, speed, pitch, loops, and project save rather than reducing the free build to a passive demo.
+- Chord detection and writing a reusable backing-track export remain clearly identified optional licensed workflows.
+- Saved project state preserves the source and practice decisions so rehearsal can resume without turning the song into a cloud project.
 
 ## Choose the right package
 

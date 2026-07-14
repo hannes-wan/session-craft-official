@@ -3,11 +3,13 @@
 [![Community Edition: Free](https://img.shields.io/badge/Community_Edition-Free-16a34a?style=for-the-badge)](https://hannes-software.com/session-craft/download/)
 [![Windows](https://img.shields.io/badge/Windows-Desktop-2563eb?style=flat-square&logo=windows)](https://hannes-software.com/session-craft/download/) [![Linux](https://img.shields.io/badge/Linux-Desktop-f59e0b?style=flat-square&logo=linux)](https://hannes-software.com/session-craft/download/) [![Local first](https://img.shields.io/badge/Workflow-Local--first-7c3aed?style=flat-square)](https://hannes-software.com/session-craft/)
 
-> Break the record open. Rehearse the part that matters.
+> Separate six local stems, loop the hard phrase, change speed or pitch, and preserve the practice session without an upload.
+
+Free Community Edition stem separation software and backing-track practice workstation for private local audio sessions.
 
 Session Craft turns local audio into a focused practice session: separate the mix, follow the waveform, loop hard sections, shift speed or pitch, read the chord timeline, and export a backing track when the session is ready.
 
-**Session Craft Community Edition is free to download and use.** Local song import and basic practice-state playback controls.
+**Session Craft Community Edition is free to download and use.** Local practice workflow with stem separation, speed and pitch control, loops, and project save.
 
 [Download Community Edition](https://hannes-software.com/session-craft/download/) · [Product guide](https://hannes-software.com/session-craft/) · [Help](https://hannes-software.com/session-craft/help/) · [Report a bug](https://github.com/hannes-wan/session-craft-official/issues/new?template=bug_report.yml)
 
@@ -38,7 +40,7 @@ Open MP3, WAV, and FLAC files and turn the source recording into a private, repe
 
 ### Stem-focused practice
 
-Separate vocals, drums, bass, guitar, and other material when the optional licensed workflow is enabled, then solo, mute, or reshape the practice mix.
+Separate vocals, drums, bass, guitar, and other material locally, then solo, mute, or reshape the practice mix without an upload-first workflow.
 
 ### Loop, tempo, pitch, and chords
 
@@ -52,7 +54,7 @@ Set A/B loops on the waveform, slow a passage without losing pitch, transpose, d
 
 ### The mix becomes playable
 
-- Professional stem separation creates practical controls for vocals, drums, bass, guitar, and other material when the optional licensed workflow is enabled.
+- The free Community edition includes local import, stem playback, stem separation, speed and pitch control, A/B loops, and project save.
 - Solo the part you need to study, lower the part you want to replace, or keep drums and bass in place for timing.
 - The goal is not a laboratory remix. The goal is a practice mix that makes the next ten minutes more useful.
 
@@ -62,11 +64,20 @@ Set A/B loops on the waveform, slow a passage without losing pitch, transpose, d
 - Slow a hard phrase, transpose for the instrument, inspect chord movement, and bring tempo back only when the part is under control.
 - Project save and backing-track export turn the session into reusable practice material instead of a one-off playback tweak.
 
+### Session Craft: free Community edition and optional advanced workflows
+
+- Chord detection and backing-track export are optional Professional workflows.
+- No subscription is needed for the desktop workflow, and no cloud account is required to practice a private rehearsal file.
+- Use it when one saved session is worth more than juggling separate stem, slowdown, chord, loop, and export tools.
+
 ## Community Edition is genuinely useful
 
 - Audio import
 - Stem playback controls
-- Basic practice session state
+- Local stem separation
+- Speed and pitch control
+- A/B loop practice
+- Project save
 
 Optional licensed workflows are available for people who need the expanded feature set. Licensing details belong on the website; the Community Edition remains the free way to evaluate and use the core product.
 
@@ -96,7 +107,14 @@ Session Craft is a desktop workflow. Your working files stay on the machine unle
 
 ## Frequently asked questions
 
-> **Community scope:** Community Edition includes local audio import, stem playback controls, and basic practice state; separation, looping, tempo, pitch, project, and export tools are optional licensed workflows.
+> **Community scope:** Community Edition includes local audio import, stem separation and playback, looping, speed, pitch, and project save; chord detection and backing-track export are optional licensed workflows.
+
+<details>
+<summary><strong>What's the difference between Session Craft and Moises or Amazing Slow Downer?</strong></summary>
+
+Moises and Amazing Slow Downer are popular but cloud-dependent or subscription-based. The Community edition is free, while the competing tool is paid commercial software; consult the vendor for current terms. Workflow details: stem separation, slowdown, looping, metronome, chord timelines, and project saving without uploading your rehearsal files. See the full comparison on our blog.
+
+</details>
 
 <details>
 <summary><strong>Does Session Craft upload my songs?</strong></summary>
