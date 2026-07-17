@@ -13,16 +13,22 @@ Session Craft turns local audio into a focused practice session: separate the mi
 
 [Download Community Edition](https://hannes-software.com/session-craft/download/) · [Product guide](https://hannes-software.com/session-craft/) · [Help](https://hannes-software.com/session-craft/help/) · [Report a bug](https://github.com/hannes-wan/session-craft-official/issues/new?template=bug_report.yml)
 
-## Download Session Craft 0.1.5
+## Download Session Craft 0.1.6
 
 | Platform | Package | Use it when |
 | --- | --- | --- |
-| Linux x64 (APPIMAGE) | [session-craft-0.1.5-linux-x64.AppImage](https://github.com/hannes-wan/session-craft-official/releases/download/v0.1.5/session-craft-0.1.5-linux-x64.AppImage) | Portable Linux desktop package |
-| Linux x64 (DEB) | [session-craft-0.1.5-linux-x64.deb](https://github.com/hannes-wan/session-craft-official/releases/download/v0.1.5/session-craft-0.1.5-linux-x64.deb) | Debian, Ubuntu, Mint, and compatible systems |
-| Linux x64 (RPM) | [session-craft-0.1.5-linux-x64.rpm](https://github.com/hannes-wan/session-craft-official/releases/download/v0.1.5/session-craft-0.1.5-linux-x64.rpm) | Fedora, RHEL, openSUSE, and compatible systems |
-| Windows x64 | [session-craft-0.1.5-windows-x64-setup.exe](https://github.com/hannes-wan/session-craft-official/releases/download/v0.1.5/session-craft-0.1.5-windows-x64-setup.exe) | Guided Windows installer |
+| Linux x64 (APPIMAGE) | [session-craft-0.1.6-linux-x64.AppImage](https://github.com/hannes-wan/session-craft-official/releases/download/v0.1.6/session-craft-0.1.6-linux-x64.AppImage) | Portable Linux desktop package |
+| Linux x64 (DEB) | [session-craft-0.1.6-linux-x64.deb](https://github.com/hannes-wan/session-craft-official/releases/download/v0.1.6/session-craft-0.1.6-linux-x64.deb) | Debian, Ubuntu, Mint, and compatible systems |
+| Linux x64 (RPM) | [session-craft-0.1.6-linux-x64.rpm](https://github.com/hannes-wan/session-craft-official/releases/download/v0.1.6/session-craft-0.1.6-linux-x64.rpm) | Fedora, RHEL, openSUSE, and compatible systems |
+| Windows x64 | [session-craft-0.1.6-windows-x64-setup.exe](https://github.com/hannes-wan/session-craft-official/releases/download/v0.1.6/session-craft-0.1.6-windows-x64-setup.exe) | Guided Windows installer |
 
 Checksums, installation notes, and the complete platform matrix live on the [official download page](https://hannes-software.com/session-craft/download/).
+
+## System requirements
+
+- **Windows:** Windows 10 or Windows 11 on x64.
+- **Linux:** a mainstream x64 distribution with glibc 2.35 or newer, such as Ubuntu 22.04+, Debian 12+, Fedora, or openSUSE (AppImage, DEB, and RPM packages).
+- **Disk space:** a few hundred megabytes free for the application and its bundled resources.
 
 ## Why Session Craft exists
 
@@ -54,7 +60,7 @@ Set A/B loops on the waveform, slow a passage without losing pitch, transpose, d
 
 ### The mix becomes playable
 
-- The free Community edition includes local import, stem playback, stem separation, speed and pitch control, A/B loops, and project save.
+- The free Community Edition includes local import, stem playback, stem separation, speed and pitch control, A/B loops, and project save.
 - Solo the part you need to study, lower the part you want to replace, or keep drums and bass in place for timing.
 - The goal is not a laboratory remix. The goal is a practice mix that makes the next ten minutes more useful.
 
@@ -64,7 +70,7 @@ Set A/B loops on the waveform, slow a passage without losing pitch, transpose, d
 - Slow a hard phrase, transpose for the instrument, inspect chord movement, and bring tempo back only when the part is under control.
 - Project save and backing-track export turn the session into reusable practice material instead of a one-off playback tweak.
 
-### Session Craft: free Community edition and optional advanced workflows
+### Session Craft: free Community Edition and optional advanced workflows
 
 - Chord detection and backing-track export are optional Professional workflows.
 - No subscription is needed for the desktop workflow, and no cloud account is required to practice a private rehearsal file.
@@ -112,7 +118,7 @@ Session Craft is a desktop workflow. Your working files stay on the machine unle
 <details>
 <summary><strong>What's the difference between Session Craft and Moises or Amazing Slow Downer?</strong></summary>
 
-Moises and Amazing Slow Downer are popular but cloud-dependent or subscription-based. The Community edition is free, while the competing tool is paid commercial software; consult the vendor for current terms. Workflow details: stem separation, slowdown, looping, metronome, chord timelines, and project saving without uploading your rehearsal files. See the full comparison on our blog.
+Moises and Amazing Slow Downer are popular but cloud-dependent or subscription-based. The Community Edition is free, while the competing tool is paid commercial software; consult the vendor for current terms. Workflow details: stem separation, slowdown, looping, metronome, chord timelines, and project saving without uploading your rehearsal files. See the [full comparison](https://hannes-software.com/session-craft/blogs/session-craft-vs-moises-amazing-slow-downer-transcribe/).
 
 </details>
 
@@ -127,6 +133,13 @@ No. The product is designed as an offline desktop practice tool for local audio 
 <summary><strong>Which files can I import?</strong></summary>
 
 The desktop build targets MP3, WAV, and FLAC import through the shared audio-core decoder.
+
+</details>
+
+<details>
+<summary><strong>How much does Session Craft cost?</strong></summary>
+
+The download is free for separation, preview, slowdown, and looping. This is a paid subscription service; consult the vendor for current access terms.
 
 </details>
 
