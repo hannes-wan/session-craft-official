@@ -46,7 +46,7 @@ Open MP3, WAV, and FLAC files and turn the source recording into a private, repe
 
 ### Stem-focused practice
 
-Separate vocals, drums, bass, guitar, and other material locally, then solo, mute, or reshape the practice mix without an upload-first workflow.
+Separate six local stems — vocals, drums, bass, guitar, keyboard, and other — then solo, mute, or reshape the practice mix without an upload-first workflow.
 
 ### Loop, tempo, pitch, and chords
 
@@ -72,7 +72,7 @@ Set A/B loops on the waveform, slow a passage without losing pitch, transpose, d
 
 ### Session Craft: free Community Edition and optional advanced workflows
 
-- Chord detection and backing-track export are optional Professional workflows.
+- Chord detection and backing-track export are optional licensed workflows.
 - No subscription is needed for the desktop workflow, and no cloud account is required to practice a private rehearsal file.
 - Use it when one saved session is worth more than juggling separate stem, slowdown, chord, loop, and export tools.
 
@@ -118,7 +118,7 @@ Session Craft is a desktop workflow. Your working files stay on the machine unle
 <details>
 <summary><strong>What's the difference between Session Craft and Moises or Amazing Slow Downer?</strong></summary>
 
-Moises and Amazing Slow Downer are popular but cloud-dependent or subscription-based. The Community Edition is free, while the competing tool is paid commercial software; consult the vendor for current terms. Workflow details: stem separation, slowdown, looping, metronome, chord timelines, and project saving without uploading your rehearsal files. See the [full comparison](https://hannes-software.com/session-craft/blogs/session-craft-vs-moises-amazing-slow-downer-transcribe/).
+Moises and Amazing Slow Downer are popular but cloud-dependent or subscription-based. The Community Edition is free. Optional licensed capabilities add advanced workflows; see the product page for current access details. Workflow details: stem separation, slowdown, looping, metronome, chord timelines, and project saving without uploading your rehearsal files. See the [full comparison](https://hannes-software.com/session-craft/blogs/session-craft-vs-moises-amazing-slow-downer-transcribe/).
 
 </details>
 
@@ -139,7 +139,7 @@ The desktop build targets MP3, WAV, and FLAC import through the shared audio-cor
 <details>
 <summary><strong>How much does Session Craft cost?</strong></summary>
 
-The download is free for separation, preview, slowdown, and looping. This is a paid subscription service; consult the vendor for current access terms.
+The Community Edition is free for local separation, preview, slowdown, looping, and saved practice sessions. Optional licensed workflows use the current in-product or store terms. There is no recurring subscription.
 
 </details>
 
