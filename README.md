@@ -13,14 +13,14 @@ Session Craft turns local audio into a focused practice session: separate the mi
 
 [Download Community Edition](https://hannes-software.com/session-craft/download/) · [Product guide](https://hannes-software.com/session-craft/) · [Help](https://hannes-software.com/session-craft/help/) · [Report a bug](https://github.com/hannes-wan/session-craft-official/issues/new?template=bug_report.yml)
 
-## Download Session Craft 0.1.9
+## Download Session Craft 0.1.10
 
 | Platform | Package | Use it when |
 | --- | --- | --- |
-| Linux x64 (APPIMAGE) | [session-craft-0.1.9-linux-x64.AppImage](https://github.com/hannes-wan/session-craft-official/releases/download/v0.1.9/session-craft-0.1.9-linux-x64.AppImage) | Portable Linux desktop package |
-| Linux x64 (DEB) | [session-craft-0.1.9-linux-x64.deb](https://github.com/hannes-wan/session-craft-official/releases/download/v0.1.9/session-craft-0.1.9-linux-x64.deb) | Debian, Ubuntu, Mint, and compatible systems |
-| Linux x64 (RPM) | [session-craft-0.1.9-linux-x64.rpm](https://github.com/hannes-wan/session-craft-official/releases/download/v0.1.9/session-craft-0.1.9-linux-x64.rpm) | Fedora, RHEL, openSUSE, and compatible systems |
-| Windows x64 | [session-craft-0.1.9-windows-x64-setup.exe](https://github.com/hannes-wan/session-craft-official/releases/download/v0.1.9/session-craft-0.1.9-windows-x64-setup.exe) | Guided Windows installer |
+| Linux x64 (APPIMAGE) | [session-craft-0.1.10-linux-x64.AppImage](https://github.com/hannes-wan/session-craft-official/releases/download/v0.1.10/session-craft-0.1.10-linux-x64.AppImage) | Portable Linux desktop package |
+| Linux x64 (DEB) | [session-craft-0.1.10-linux-x64.deb](https://github.com/hannes-wan/session-craft-official/releases/download/v0.1.10/session-craft-0.1.10-linux-x64.deb) | Debian, Ubuntu, Mint, and compatible systems |
+| Linux x64 (RPM) | [session-craft-0.1.10-linux-x64.rpm](https://github.com/hannes-wan/session-craft-official/releases/download/v0.1.10/session-craft-0.1.10-linux-x64.rpm) | Fedora, RHEL, openSUSE, and compatible systems |
+| Windows x64 | [session-craft-0.1.10-windows-x64-setup.exe](https://github.com/hannes-wan/session-craft-official/releases/download/v0.1.10/session-craft-0.1.10-windows-x64-setup.exe) | Guided Windows installer |
 
 Checksums, installation notes, and the complete platform matrix live on the [official download page](https://hannes-software.com/session-craft/download/).
 
@@ -107,9 +107,9 @@ Session Craft is a desktop workflow. Your working files stay on the machine unle
 
 ## Documentation
 
-- [Session Craft Overview](https://hannes-software.com/session-craft/help/overview/)
-- [Quickstart: "your first practice session"](https://hannes-software.com/session-craft/help/quickstart/)
-- [Practice workflows](https://hannes-software.com/session-craft/help/workflows/)
+- [Session Craft overview](https://hannes-software.com/session-craft/help/overview/)
+- [Session Craft quickstart](https://hannes-software.com/session-craft/help/quickstart/)
+- [Session Craft practice workflows](https://hannes-software.com/session-craft/help/workflows/)
 
 ## Frequently asked questions
 
